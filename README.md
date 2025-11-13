@@ -6,6 +6,7 @@ S3 + CloudFront 기반으로 정적 웹사이트를 호스팅하며, Amplify CLI
 ---
 
 ## 📁 프로젝트 구조
+```
 amplify-gen1-demo/
 ├─ amplify/ # Amplify backend 설정 및 CloudFormation 템플릿
 ├─ amplify-ui-demo/ # React 프론트엔드 소스 코드
@@ -14,7 +15,7 @@ amplify-gen1-demo/
 ├─ amplifyPublishIgnore.json
 ├─ .gitignore
 └─ README.md
-
+```
 ---
 
 ## ⚙️ 주요 기술 스택
