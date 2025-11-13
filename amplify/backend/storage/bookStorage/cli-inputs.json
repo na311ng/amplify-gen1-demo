@@ -1,0 +1,16 @@
+{
+  "resourceName": "bookStorage",
+  "policyUUID": "bf32c86f",
+  "bucketName": "amplifygen1demof70c3005959c4becb14e90699dde3f12",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}

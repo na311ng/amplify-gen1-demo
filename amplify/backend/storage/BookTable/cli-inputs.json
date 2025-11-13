@@ -1,0 +1,10 @@
+{
+  "resourceName": "BookTable",
+  "tableName": "BookTable",
+  "partitionKey": {
+    "fieldName": "id",
+    "fieldType": "string"
+  },
+  "gsi": [],
+  "triggerFunctions": []
+}
